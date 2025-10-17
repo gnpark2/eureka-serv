@@ -1,4 +1,5 @@
 ### SPRING CLOUD discovery eureka
+<img width="759" height="423" alt="image" src="https://github.com/user-attachments/assets/ec6fad58-bc91-4669-9fda-89a43ea9bf37" />
 
 ## Run - dev
 - http://localhost:8765
